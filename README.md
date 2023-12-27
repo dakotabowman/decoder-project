@@ -1,0 +1,1 @@
+This is a Thinkful coding project. It includes three differnt cyphers: The Caesar Cypher, The Polybius Square, and The Substitution Cypher. Each of these cyphers takes a string as an input and can output your message with it either encoded or decoded.
